@@ -1,4 +1,4 @@
-# Context API #
+**# Context API #**
 
 component-wide, "behind-the-scenes" state storage. No need to have a long prop chain :D
 
@@ -24,6 +24,20 @@ import AuthContext...
 
 const ctx = useContext(AuthContext)
 ```
+
+_app.js_
+
+```
+import AuthContext...
+
+<AuthContext.Provider value={{
+	isLoggedIn: isLoggedIn
+}}>
+		//all children here have access to AuthContext
+</AuthContext.Provider>
+```
+
+
 
 2) auth context consumer
 
