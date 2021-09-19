@@ -121,6 +121,7 @@ experiences additional growth, then it may be necessary to further partition a f
 References: 
 
 https://www.ibm.com/cloud/learn/cap-theorem
+
 https://www.youtube.com/watch?v=cODCpXtPHbQ&ab_channel=codeKarle
 
 
