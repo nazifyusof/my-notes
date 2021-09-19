@@ -3,7 +3,7 @@
 
 |             |         SQL    |       NoSQL |
 | ----------- | ----------- | ----------- |
-| Header      | Structured and have predefined schemas       | Unstructured, distributed and dynamic schemas       |
+|       | Structured and have predefined schemas       | Unstructured, distributed and dynamic schemas       |
 | Storage   | Rows and columns        | Key-value stores - Redis, Dynamo <br /> Document DB - MongoDB <br /> Columnar DB - Cassandra <br /> Graph DB - Neo4j        |
 | Querying    | Use SQL (structured query language) for defining and manipulating the data | Queries are focused on a collection of documents        |
 | Scalability    | Most are vertically scalable        | Horizontally scalable        |
